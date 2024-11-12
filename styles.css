@@ -1,0 +1,43 @@
+html, body {
+    height: 100%;    
+    margin: 1;       
+    padding: 50px;      
+}
+
+body {
+    display: flex;        
+    flex-direction: column;  
+}
+
+a{
+    font-size: 25px;
+    width: 100%;
+}
+a:link{
+    color: #091b8d;
+    text-decoration: none;
+}
+h1, h2{
+    text-align: center;
+}
+
+body{
+    text-align: right;
+    background-color: #c20909;
+}
+a:visited{
+    color: #091b8d;
+}
+
+a:hover{
+    color: #1417db;
+    background-color: rgb(175, 247, 247);
+}
+
+a:active{
+    color: #c20909;
+}
+
+body{
+    background-color: #b3ebffdd;
+}
